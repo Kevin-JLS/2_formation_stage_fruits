@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+tr {vertical-align: middle;}
+.perso_background_ColorBlueDark {background-color:#283645;}
+.bleu-clair {background:#1490D7;}
+h1 {
+     background: #1490D7;
+     text-align: center;
+     color:white;
+     margin-top: 50px;
+     padding: 20px;
+     border-radius: 5px;
+}
+h2 {
+     background: #056094;
+     text-align: center;
+     color:white;
+     margin-top: 50px;
+     padding: 20px;
+     border-radius: 5px;
+}
